@@ -2,7 +2,7 @@
     "name": "third-party-cookie-test",
     "version": "1.0.0",
     "engines": {
-        "node": ">=26 <27"
+        "node": ">=26.12.1 <27"
     },
     "scripts": {
         "start-main": "node main.js",
